@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "縦書きモード"; ObjectID = "8VN-Jy-3p0"; */
+"8VN-Jy-3p0.text" = "縦書きモード";
+
+/* Class = "UIButton"; normalTitle = "消去"; ObjectID = "HYK-o5-IOl"; */
+"HYK-o5-IOl.normalTitle" = "消去";
+
+/* Class = "UIButton"; normalTitle = "認識開始"; ObjectID = "P1W-ae-QR9"; */
+"P1W-ae-QR9.normalTitle" = "認識開始";
+
+/* Class = "UILabel"; text = "Apple Pencilのみで書く"; ObjectID = "bFJ-tl-fWB"; */
+"bFJ-tl-fWB.text" = "Apple Pencilのみで書く";
